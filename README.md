@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Tableau</h3>
+<h3 align="center"> Data Analyst based in Norway, passionate about turning data into actionable business insights 
+  
+   SQL • Python • Power BI • Tableau</h3>
 
 ---
 
